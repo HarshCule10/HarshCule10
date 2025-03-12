@@ -14,7 +14,7 @@
 ### 🌱 Currently Learning  
 📈 **Backend optimizations** to make apps faster & smoother  
 🛠️ Advanced **Flutter & Firebase** integrations  
-🧠 Mastering **problem-solving & system design**  
+🧠 Mastering **problem-solving & React**  
 
 ### 💞️ What I Love Working On  
 ✨ **Sleek, modern UIs** with bold animations  
