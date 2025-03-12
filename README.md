@@ -33,6 +33,6 @@
 ### ⚡ Fun Fact  
 🦷 Built a **Dental Clinic Management App** used in multiple clinics across India!  
 🎮 Love **gaming**, **tech innovations**, and **learning new frameworks**!  
-🍕 Can code for hours... as long as there's **pizza**!  
+🍕 Can code for hours... as long as there's **Biryani**!  
 
 🚀 **Let’s Build Something Awesome Together!**  
