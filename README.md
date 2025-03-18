@@ -34,5 +34,3 @@ I am a **Full-Stack Developer & Freelancer** passionate about building intuitive
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshCule10&show_icons=true&theme=radical)
 
-## 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshCule10&layout=compact&theme=radical)
