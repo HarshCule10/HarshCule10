@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Harsh 👋
 
 ## 🚀 About Me
 I am a **Full-Stack Developer & Freelancer** passionate about building intuitive web and mobile applications. I specialize in **Flutter, Firebase, Next.js, TailwindCSS, and Node.js**. Currently, I am working on expanding my freelancing career and developing innovative solutions for various industries.
