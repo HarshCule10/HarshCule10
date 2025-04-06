@@ -1,87 +1,84 @@
 <h1 align="center">Hi there! I'm Harsh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+App+Enthusiast;Freelancer+on+Upwork;Passionate+about+UI%2FUX+%26+Performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Freelancer+on+Upwork;Flutter+%7C+Next.js+%7C+Firebase;Loves+Building+Impactful+Products" alt="Typing Animation" />
 </p>
+
+<div align="center">
+  <img src="https://lottie.host/10d2eb8c-b0c2-4863-bcfc-f208c36430ce/UbXoEOuBu2.json" alt="Coder Animation" height="250"/>
+</div>
 
 ---
 
 ## 🚀 About Me
 
-🌟 I'm a **Full-Stack Developer & Freelancer** with a passion for building scalable, intuitive web and mobile apps.  
-💼 Currently focusing on expanding my freelancing career and delivering impactful digital solutions.  
-🛠 I love working with **Flutter**, **Firebase**, **Next.js**, **TailwindCSS**, and **Node.js**.
+💻 I’m a **Full-Stack Developer & Freelancer** focused on clean UI/UX and performance.  
+🔭 Currently working with **Flutter**, **Firebase**, **Next.js**, **TailwindCSS**, and **Node.js**.  
+🎯 My goal is to build apps that not only **work great** but also **look stunning**.  
+🌍 I love collaborating, freelancing, and bringing digital ideas to life.
 
 ---
 
-## 🌐 Connect with Me
+## 🔗 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/t-kumar-harsh-0b9011273/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="https://www.upwork.com/freelancers/~0112406c399cba5c52" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+    <img src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-### 📱 Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
-
-### 🔧 Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,flutter,firebase,supabase,nodejs,express,mongodb,mysql,figma,github" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshCule10&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshCule10&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshCule10&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshCule10&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshCule10&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## ⚡ Random Dev Quote
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshCule10&theme=radical&hide_border=true"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-## ✨ Fun Fact
+## ✨ Fun Projects
 
-💡 I love transforming ideas into digital realities and believe that great UI/UX is just as important as clean code.  
-🏋️‍♂️ Outside of coding, I enjoy working out and exploring new tech every day!
+| 💼 Projects | 🔧 Stack |
+|------------|----------|
+| 🦷 **Dental Clinic Management** | Flutter + Firebase + Firestore |
+| 🚗 **Car Sharing App** | Flutter + Supabase + Maps |
+| 📢 **Event Management App** | Flutter + Firebase |
+| ❤️ **Cardiovascular Health App** | Flutter + Firebase + BLE Devices |
+
+---
+
+## 🧠 Currently Working On
+
+- 🔧 Finalizing two freelance projects
+- 💡 Building animated Next.js Portfolio
+- 🧩 Growing on Upwork
+- 🏋️‍♂️ Hitting the gym and LeetCoding 💪
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshCule10&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HarshCule10&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
-
