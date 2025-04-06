@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Freelancer+on+Upwork;Flutter+%7C+Next.js+%7C+Firebase;Loves+Building+Impactful+Products" alt="Typing Animation" />
 </p>
 
-<div align="center">
-  <img src="https://lottie.host/10d2eb8c-b0c2-4863-bcfc-f208c36430ce/UbXoEOuBu2.json" alt="Coder Animation" height="250"/>
-</div>
-
----
 
 ## 🚀 About Me
 
@@ -51,22 +46,14 @@
 
 ---
 
-## ⚡ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
 ## ✨ Fun Projects
 
 | 💼 Projects | 🔧 Stack |
 |------------|----------|
 | 🦷 **Dental Clinic Management** | Flutter + Firebase + Firestore |
-| 🚗 **Car Sharing App** | Flutter + Supabase + Maps |
+| 🚗 **Sevakar** | Flutter + Supabase + Maps |
 | 📢 **Event Management App** | Flutter + Firebase |
-| ❤️ **Cardiovascular Health App** | Flutter + Firebase + BLE Devices |
+| ❤️ **Task-Loop** | React.js + Supabase  |
 
 ---
 
@@ -75,7 +62,6 @@
 - 🔧 Finalizing two freelance projects
 - 💡 Building animated Next.js Portfolio
 - 🧩 Growing on Upwork
-- 🏋️‍♂️ Hitting the gym and LeetCoding 💪
 
 ---
 
